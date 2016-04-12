@@ -40,6 +40,5 @@ public class Main {
             tehtavat += submission.tehtyjenSumma();
         }
         System.out.println("\nYhteensä " + tunnit + " tuntia, " + tehtavat + " tehtävää");
-
     }
 }
